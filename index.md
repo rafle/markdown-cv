@@ -1,91 +1,99 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rafael Leal's Academic CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Rafael Leal
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="rafael.leal@aalto.fi"><i class="far fa-envelope"></i> rafael.leal@aalto.fi</a><br/>
+  <a href="https://github.com/rafle"><i class="fab fa-github"></i> rafle</a>
+  <a href="https://orcid.org/0000-0001-7266-2036"><i class="ai ai-orcid"></i> 0000-0001-7266-2036</a>
+  <!-- <a href="https://seco.cs.aalto.fi/"> SeCo</a> -->
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`07.2021-present`
+**PhD Candidate in Computer Science** *Aalto University / Department of Computer Science*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`09.2019-12.2020`
+**Master's Degree in Language Technology** *University of Helsinki / Faculty of Arts*
 
-- Sizar
+`08.2014-08.2019`
+**Bachelor's Degree in Language Technology**  *University of Helsinki / Faculty of Arts*
 
-`1667 - death`
-__Trinity College, Cambridge__
+`08.2010-05.2011`
+**Master's Programme in European Studies (unfinished)** *University of Helsinki / Faculty of Arts*
 
-- Fellow
+`01.2010-04.2010`
+**Yleiseen kielitutkintoon valmentava koulutus**  *Edupoli*
+
+`08.2001-05.2005`
+**Bachelor's Degree in History**  *University of Salamanca (Spain)*
 
 
+## Employment
 
-## Awards
+`07.2021-present`
+**Doctoral Researcher** _Aalto University_, _Semantic Computing Research Group_
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`11.2019-06.2021`
+**Research assistant** _University of Helsinki_, _HELDIG/Semantic Computing Research Group_
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2023`
 
-### Journals
+Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. ‘Plenary Speeches of the Parliament of Finland as Linked Open Data and Data Services’. In Joint Proceedings of the Second International Workshop on Knowledge Graph Generation from Text and the First International BiKE Challenge Co-Located with 20th Extended Semantic Conference (ESWC 2023), 1–20. CEUR Workshop Proceedings, Vol. 3447, 2023. https://ceur-ws.org/Vol-3447/.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
 
-`1669`
-Lectiones opticæ.
+**Leal, Rafael**, Heikki Rantala, Mikko Koho, Esko Ikkala, Markus Merenmies, and Eero Hyvönen. ‘WarMemoirSampo: A Semantic Portal for War Veteran Interview Videos’. In DHNB 2022 the 6th Digital Humanities in Nordic and Baltic Countries Conference. CEUR Workshop Proceedings, long papers, Vol. 3232, 2022. http://ceur-ws.org/Vol-3232/paper30.pdf.
 
-etc. etc. etc.
+Koho, Mikko, **Rafael Leal**, Esko Ikkala, Minna Tamper, Heikki Rantala, and Eero Hyvönen. ‘Building Lightweight Ontologies for Faceted Search with Named Entity Recognition: Case WarMemoirSampo’. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), edited by Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D’Souza, and Mayank Kejriwal, 3184:19–35. CEUR Workshop Proceedings, 2022. http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_2.pdf.
 
-### Patents
+Tamper, Minna, **Rafael Leal**, Laura Sinikallio, Petri Leskinen, Jouni Tuominen, and Eero Hyvönen. ‘Extracting Knowledge from Parliamentary Debates for Studying Political Culture and Language’. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), edited by Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D’Souza, and Mayank Kejriwal, 3184:70–79. CEUR WS, 2022. http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_5.pdf.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Hyvönen, Eero, Minna Tamper, Esko Ikkala, Mikko Koho, **Rafael Leal**, Joonas Kesäniemi, Arttu Oksanen, Jouni Tuominen, and Aki Hietanen. ‘LawSampo Portal and Data Service for Publishing and Using Legislation and Case Law as Linked Open Data on the Semantic Web’. In AI4LEGAL-KGSUM 2022: Artificial Intelligence Technologies for Legal Documents and Knowledge Graph Summarization 2022, 3257:41–50. CEUR Workshop Proceedings, 2022. http://ceur-ws.org/Vol-3257/paper5.pdf.
 
+`2021`
 
-## Occupation
+**Leal, Rafael**, Joonas Kesäniemi, Mikko Koho, and Eero Hyvönen. ‘Relevance Feedback Search Based on Automatic Annotation and Classification of Texts’. In 3rd Conference on Language, Data and Knowledge (LDK 2021), edited by Dagmar Gromann, Gilles Sérasset, Thierry Declerck, John P. McCrae, Jorge Gracia, Julia Bosque-Gil, Fernando Bobillo, and Barbara Heinisch, 93:18:1-18:15. Open Access Series in Informatics (OASIcs). Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 2021. https://doi.org/10.4230/OASIcs.LDK.2021.18.
 
-`1600`
-__Royal Mint__, London
+Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Jouni Tuominen, Matti La Mela, and Eero Hyvönen. ‘Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup’. In 3rd Conference on Language, Data and Knowledge, LDK 2021, 93:8:1-8:17. Open Access Series in Informatics (OASIcs). Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik GmbH, 2021. https://doi.org/10.4230/OASIcs.LDK.2021.8.
 
-- Warden
-- Minted coins
+## Awards
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`9.12.2022`
+School of Science, Aalto University: **Scientific Communication Award** (Eero Hyvönen and Semantic Computing Research Group)
 
 
+## Language Skills
 
-<!-- ### Footer
+Portuguese: mother tongue
 
-Last updated: May 2013 -->
+English: fluent
+
+Finnish: fluent
+
+Spanish: fluent
+
+French: good comprehension
 
 
+
+## Technical Skills
+
+Python, Git, BASH
+
+Markdown and LaTeX
+
+SPARQL
+
+
+## Academic Interests
+
+Natural Language Processing, Machine learning, Data analysis & visualisation, Historical computational linguistics, Open source
