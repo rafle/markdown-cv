@@ -6,11 +6,11 @@ title: Rafael Leal's Academic CV
 # Rafael Leal
 Doctoral Candidate, Aalto University
 
-<a href="rafael.leal@aalto.fi">rafael.leal@aalto.fi</a>
+firstname.lastname@aalto.fi
 
 <div id="webaddress">
-  Github:<a href="https://github.com/rafle"><i class="fab fa-github"></i> rafle</a> -
-  ORCID:<a href="https://orcid.org/0000-0001-7266-2036"><i class="ai ai-orcid"></i> 0000-0001-7266-2036</a><br/>
+  Github: <a href="https://github.com/rafle">rafle</a> -
+  ORCID: <a href="https://orcid.org/0000-0001-7266-2036">0000-0001-7266-2036</a><br/>
   <a href="https://seco.cs.aalto.fi"><i class="fas fa-users"></i> Semantic Computing Research Group (SeCo)</a><br/>
 </div>
 
@@ -67,6 +67,10 @@ Hyvönen, Eero, Minna Tamper, Esko Ikkala, Mikko Koho, **Rafael Leal**, Joonas K
 
 Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Jouni Tuominen, Matti La Mela, and Eero Hyvönen. ‘Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup’. In 3rd Conference on Language, Data and Knowledge, LDK 2021, 93:8:1-8:17. Open Access Series in Informatics (OASIcs). Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik GmbH, 2021. [https://doi.org/10.4230/OASIcs.LDK.2021.8](https://doi.org/10.4230/OASIcs.LDK.2021.8).
 
+## Academic activities
+`Spring 2023 - Summer 2023`
+Bachelor's Thesis Seminar coordinator
+
 ## Awards
 
 `9.12.2022`
@@ -99,6 +103,9 @@ SPARQL
 ## Academic Interests
 
 Natural Language Processing, Machine learning, Data analysis & visualisation, Historical computational linguistics, Open source
+
+
+<br/><br/>Last updated: September 2023<br/><br/>
 
 <!-- ### Footer
 
