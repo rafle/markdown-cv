@@ -95,6 +95,9 @@ Markdown and LaTeX
 
 SPARQL
 
+<!-- ### Footer
+
+Last updated: Sep 2023 -->
 
 ## Academic Interests
 
