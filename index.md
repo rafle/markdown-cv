@@ -69,26 +69,19 @@ Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Joun
 
 ## Academic activities
 `Spring 2023 - Summer 2023`
-Bachelor's Thesis Seminar coordinator
+Computer Science Bachelor's Thesis Seminar coordinator 
 
 ## Awards
 
 `9.12.2022`
-School of Science, Aalto University: **Scientific Communication Award** (To Eero Hyvönen and Semantic Computing Research Group)
+**School of Science, Aalto University** _Scientific Communication Award_ (To Eero Hyvönen and Semantic Computing Research Group)
 
 
 ## Language Skills
 
-Portuguese: mother tongue
-
-English: fluent
-
-Finnish: fluent
-
-Spanish: fluent
-
-French: good comprehension
-
+Portuguese: native
+Fluent in English, Finnish, Spanish
+Good comprehension (but rusty otherwise) in French
 
 
 ## Technical Skills
