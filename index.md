@@ -4,11 +4,14 @@ title: Rafael Leal's Academic CV
 ---
 
 # Rafael Leal
+Doctoral Candidate, Aalto University
+
+<a href="rafael.leal@aalto.fi">rafael.leal@aalto.fi</a>
 
 <div id="webaddress">
-  <a href="rafael.leal@aalto.fi"><i class="far fa-envelope"></i> rafael.leal@aalto.fi</a><br/>
-  <a href="https://github.com/rafle"><i class="fab fa-github"></i> rafle</a>
-  <a href="https://orcid.org/0000-0001-7266-2036"><i class="ai ai-orcid"></i> 0000-0001-7266-2036</a>
+  <a href="https://github.com/rafle"><i class="fab fa-github"></i> rafle</a> -
+  <a href="https://orcid.org/0000-0001-7266-2036"><i class="ai ai-orcid"></i> 0000-0001-7266-2036</a><br/>
+  <a href="https://seco.cs.aalto.fi"><i class="fas fa-users"></i> Semantic Computing Research Group (SeCo)</a><br/>
   <!-- <a href="https://seco.cs.aalto.fi/"> SeCo</a> -->
 </div>
 
