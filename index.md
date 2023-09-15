@@ -95,10 +95,11 @@ Markdown and LaTeX
 
 SPARQL
 
-<!-- ### Footer
-
-Last updated: Sep 2023 -->
 
 ## Academic Interests
 
 Natural Language Processing, Machine learning, Data analysis & visualisation, Historical computational linguistics, Open source
+
+<!-- ### Footer
+
+Last updated: Sep 2023 -->
