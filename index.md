@@ -5,6 +5,7 @@ title: Rafael Leal's Academic CV
 
 # Rafael Leal
 Doctoral Candidate at Aalto University
+Natural Language Processing and Linked Data
 
 firstname.lastname@aalto.fi
 
@@ -57,61 +58,66 @@ Large Language Models
 
 Git, BASH
 
-Markdown and LaTeX
-
-SQL
+SQL and Knowledge Graphs
 
 Linked Data, SPARQL
+
+Markdown and LaTeX
+
 
 ## Language Skills
 
 Portuguese: native
 
-Fluent in English, Finnish, Spanish
+English: fluent
 
-Good comprehension (but rusty otherwise) in French
+Finnish: fluent
+
+Spanish: fluent
+
+Frence: good comprehension, rusty otherwise
 
 
 ## Academic publications (excerpt)
 
 `Forthcoming`
 
-[//]: # (Ahola, Annastiina, Lilli Peura, **Rafael Leal**, Heikki Rantala, and Eero Hyvönen. 2026 (forthcoming). ‘Using Generative AI and LLMs to Enrich Art Collection Metadata for Searching, Browsing, and Studying Art History in Digital Humanities’. In Humanizing Technology, Volume III - Artificial Intelligence and the Humanities, eds Silvia Lima, Gonçalves Araújo, Micaela Aguiar, and Dalila Durães. Peter Lang Verlag.)
+[//]: # (Ahola, Annastiina, Lilli Peura, **Rafael Leal**, Heikki Rantala, and Eero Hyvönen. 2026 (forthcoming). _Using Generative AI and LLMs to Enrich Art Collection Metadata for Searching, Browsing, and Studying Art History in Digital Humanities_. In Humanizing Technology, Volume III - Artificial Intelligence and the Humanities, eds Silvia Lima, Gonçalves Araújo, Micaela Aguiar, and Dalila Durães. Peter Lang Verlag.)
 
-**Leal, Rafael**, Annastiina Ahola, and Eero Hyvönen. 2025 (forthcoming). ‘Enriching Cultural Heritage Knowledge Graph Metadata from Finnish Texts with Large Language Models’. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.
+**Leal, Rafael**, Annastiina Ahola, and Eero Hyvönen. 2025 (forthcoming). _Enriching Cultural Heritage Knowledge Graph Metadata from Finnish Texts with Large Language Models_. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.
 
-[//]: # (Hyvönen, Eero, Petri Leskinen, Henna Poikkimäki, Heikki Rantala, **Rafael Leal**, Jouni Tuominen, Senka Drobac, et al. 2025 (forthcoming). ‘Searching, Exploring, and Analyzing Historical Letters and the Underlying Networks: LetterSampo Finland – Finnish 19th-Century Letters on the Semantic Web’. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.)
+[//]: # (Hyvönen, Eero, Petri Leskinen, Henna Poikkimäki, Heikki Rantala, **Rafael Leal**, Jouni Tuominen, Senka Drobac, et al. 2025 (forthcoming). _Searching, Exploring, and Analyzing Historical Letters and the Underlying Networks: LetterSampo Finland – Finnish 19th-Century Letters on the Semantic Web_. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.)
 
 
 `2024`
 
-Hyvönen, Eero, Hien Cao, **Rafael Leal**, Heikki Rantala, and Aki Hietanen. 2024. ‘Searching and Analyzing Cross-Border Multilingual Legislation on the Semantic Web’. In The Semantic Web: ESWC 2024 Satellite Events, Hersonissos, Crete, Greece, May 26 - 30, 2024, Proceedings, Springer.
+Hyvönen, Eero, Hien Cao, **Rafael Leal**, Heikki Rantala, and Aki Hietanen. 2024. _Searching and Analyzing Cross-Border Multilingual Legislation on the Semantic Web_. In The Semantic Web: ESWC 2024 Satellite Events, Hersonissos, Crete, Greece, May 26 - 30, 2024, Proceedings, Springer.
 
-[//]: # (Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. 2024. ‘Publishing and Using Parliamentary Linked Data on the Semantic Web: ParliamentSampo System for Parliament of Finland’. In Semantic Web,.)
+[//]: # (Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. 2024. _Publishing and Using Parliamentary Linked Data on the Semantic Web: ParliamentSampo System for Parliament of Finland_. In Semantic Web,.)
 
 
 `2023`
 
-Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. 2023. ‘Plenary Speeches of the Parliament of Finland as Linked Open Data and Data Services’. In Joint Proceedings of the Second International Workshop on Knowledge Graph Generation from Text and the First International BiKE Challenge Co-Located with 20th Extended Semantic Conference (ESWC 2023), CEUR Workshop Proceedings, Vol. 3447, 1–20. <https://ceur-ws.org/Vol-3447/>.
+Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. 2023. _Plenary Speeches of the Parliament of Finland as Linked Open Data and Data Services_. In Joint Proceedings of the Second International Workshop on Knowledge Graph Generation from Text and the First International BiKE Challenge Co-Located with 20th Extended Semantic Conference (ESWC 2023), CEUR Workshop Proceedings, Vol. 3447, 1–20. <https://ceur-ws.org/Vol-3447/>.
 
 
 `2022`
 
-**Leal, Rafael**, Heikki Rantala, Mikko Koho, Esko Ikkala, Markus Merenmies, and Eero Hyvönen. 2022. ‘WarMemoirSampo: A Semantic Portal for War Veteran Interview Videos’. In DHNB 2022 the 6th Digital Humanities in Nordic and Baltic Countries Conference, CEUR Workshop Proceedings, long papers, Vol. 3232. <http://ceur-ws.org/Vol-3232/paper30.pdf>.
+**Leal, Rafael**, Heikki Rantala, Mikko Koho, Esko Ikkala, Markus Merenmies, and Eero Hyvönen. 2022. _WarMemoirSampo: A Semantic Portal for War Veteran Interview Videos_. In DHNB 2022 the 6th Digital Humanities in Nordic and Baltic Countries Conference, CEUR Workshop Proceedings, long papers, Vol. 3232. <http://ceur-ws.org/Vol-3232/paper30.pdf>.
 
-[//]: # (Hyvönen, Eero, Esko Ikkala, Mikko Koho, **Rafael Leal**, Heikki Rantala, and Minna Tamper. 2022. ‘How to Search and Contextualize Scenes Inside Videos for Enriched Watching Experience: Case Stories of the Second World War Veterans’. In The Semantic Web: ESWC 2022 Satellite Events, Lecture Notes in Computer Science, eds Paul Groth, Anisa Rula, Jodi Schneider, Ilaria Tiddi, Elena Simperl, Panos Alexopoulos, Rinke Hoekstra, et al. Cham: Springer International Publishing, 163–67. <https://doi.org/10.1007/978-3-031-11609-4_31>.)
+[//]: # (Hyvönen, Eero, Esko Ikkala, Mikko Koho, **Rafael Leal**, Heikki Rantala, and Minna Tamper. 2022. _How to Search and Contextualize Scenes Inside Videos for Enriched Watching Experience: Case Stories of the Second World War Veterans_. In The Semantic Web: ESWC 2022 Satellite Events, Lecture Notes in Computer Science, eds Paul Groth, Anisa Rula, Jodi Schneider, Ilaria Tiddi, Elena Simperl, Panos Alexopoulos, Rinke Hoekstra, et al. Cham: Springer International Publishing, 163–67. <https://doi.org/10.1007/978-3-031-11609-4_31>.)
 
-[//]: # (Hyvönen, Eero, Minna Tamper, Esko Ikkala, Mikko Koho, **Rafael Leal**, Joonas Kesäniemi, Arttu Oksanen, Jouni Tuominen, and Aki Hietanen. 2022. ‘LawSampo Portal and Data Service for Publishing and Using Legislation and Case Law as Linked Open Data on the Semantic Web’. In AI4LEGAL-KGSUM 2022: Artificial Intelligence Technologies for Legal Documents and Knowledge Graph Summarization 2022, CEUR Workshop Proceedings, 41–50. <http://ceur-ws.org/Vol-3257/paper5.pdf>.)
+[//]: # (Hyvönen, Eero, Minna Tamper, Esko Ikkala, Mikko Koho, **Rafael Leal**, Joonas Kesäniemi, Arttu Oksanen, Jouni Tuominen, and Aki Hietanen. 2022. _LawSampo Portal and Data Service for Publishing and Using Legislation and Case Law as Linked Open Data on the Semantic Web_. In AI4LEGAL-KGSUM 2022: Artificial Intelligence Technologies for Legal Documents and Knowledge Graph Summarization 2022, CEUR Workshop Proceedings, 41–50. <http://ceur-ws.org/Vol-3257/paper5.pdf>.)
 
-Koho, Mikko, **Rafael Leal**, Esko Ikkala, Minna Tamper, Heikki Rantala, and Eero Hyvönen. 2022. ‘Building Lightweight Ontologies for Faceted Search with Named Entity Recognition: Case WarMemoirSampo’. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), eds Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D’Souza, and Mayank Kejriwal. CEUR Workshop Proceedings, 19–35. <http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_2.pdf>.
+Koho, Mikko, **Rafael Leal**, Esko Ikkala, Minna Tamper, Heikki Rantala, and Eero Hyvönen. 2022. _Building Lightweight Ontologies for Faceted Search with Named Entity Recognition: Case WarMemoirSampo_. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), eds Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D_Souza, and Mayank Kejriwal. CEUR Workshop Proceedings, 19–35. <http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_2.pdf>.
 
-Tamper, Minna, **Rafael Leal**, Laura Sinikallio, Petri Leskinen, Jouni Tuominen, and Eero Hyvönen. 2022. ‘Extracting Knowledge from Parliamentary Debates for Studying Political Culture and Language’. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), eds Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D’Souza, and Mayank Kejriwal. CEUR WS, 70–79. <http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_5.pdf>.
+Tamper, Minna, **Rafael Leal**, Laura Sinikallio, Petri Leskinen, Jouni Tuominen, and Eero Hyvönen. 2022. _Extracting Knowledge from Parliamentary Debates for Studying Political Culture and Language_. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), eds Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D_Souza, and Mayank Kejriwal. CEUR WS, 70–79. <http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_5.pdf>.
 
 `2021`
 
-**Leal, Rafael**, Joonas Kesäniemi, Mikko Koho, and Eero Hyvönen. 2021. ‘Relevance Feedback Search Based on Automatic Annotation and Classification of Texts’. In 3rd Conference on Language, Data and Knowledge (LDK 2021), Open access series in informatics (OASIcs), eds Dagmar Gromann, Gilles Sérasset, Thierry Declerck, John P. McCrae, Jorge Gracia, Julia Bosque-Gil, Fernando Bobillo, and Barbara Heinisch. Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 18:1-18:15. <https://doi.org/10.4230/OASIcs.LDK.2021.18>.
+**Leal, Rafael**, Joonas Kesäniemi, Mikko Koho, and Eero Hyvönen. 2021. _Relevance Feedback Search Based on Automatic Annotation and Classification of Texts_. In 3rd Conference on Language, Data and Knowledge (LDK 2021), Open access series in informatics (OASIcs), eds Dagmar Gromann, Gilles Sérasset, Thierry Declerck, John P. McCrae, Jorge Gracia, Julia Bosque-Gil, Fernando Bobillo, and Barbara Heinisch. Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 18:1-18:15. <https://doi.org/10.4230/OASIcs.LDK.2021.18>.
 
-Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Jouni Tuominen, Matti La Mela, and Eero Hyvönen. 2021. ‘Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup’. In 3rd Conference on Language, Data and Knowledge, LDK 2021, Open access series in informatics (OASIcs), Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik GmbH, 8:1-8:17. <https://doi.org/10.4230/OASIcs.LDK.2021.8>.
+Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Jouni Tuominen, Matti La Mela, and Eero Hyvönen. 2021. _Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup_. In 3rd Conference on Language, Data and Knowledge, LDK 2021, Open access series in informatics (OASIcs), Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik GmbH, 8:1-8:17. <https://doi.org/10.4230/OASIcs.LDK.2021.8>.
 
 
 
