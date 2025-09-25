@@ -9,9 +9,9 @@ Doctoral Candidate at Aalto University
 firstname.lastname@aalto.fi
 
 <div id="webaddress">
-  Github: <a href="https://github.com/rafle">rafle</a><br/>
-  ORCID: <a href="https://orcid.org/0000-0001-7266-2036">0000-0001-7266-2036</a><br/>
-  <a href="https://seco.cs.aalto.fi"><i class="fas fa-users"></i> Semantic Computing Research Group (SeCo)</a><br/>
+  Github: <a href="https://github.com/rafle"><i class="fa-brands fa-github"></i> rafle</a><br/>
+  ORCID: <a href="https://orcid.org/0000-0001-7266-2036"><i class="fa-brands fa-orcid"></i> 0000-0001-7266-2036</a><br/>
+  <a href="https://seco.cs.aalto.fi"><i class="fa-solid fa-users"></i> Semantic Computing Research Group (SeCo)</a><br/>
 </div>
 
 
