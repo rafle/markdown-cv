@@ -15,6 +15,19 @@ firstname.lastname@aalto.fi
 </div>
 
 
+## Employment
+
+`07.2021-present`
+**Doctoral Researcher** _Aalto University_, _Semantic Computing Research Group_
+
+`11.2019-06.2021`
+**Research assistant** _University of Helsinki_, _HELDIG/Semantic Computing Research Group_
+
+`-05.2021`
+**Hardware Technician** _Digishop Finland 0y_
+
+
+
 ## Education
 
 `07.2021-present`
@@ -26,8 +39,8 @@ firstname.lastname@aalto.fi
 `08.2014-08.2019`
 **Bachelor's Degree in Language Technology**  *University of Helsinki / Faculty of Arts*
 
-`08.2010-05.2011`
-**Master's Programme in European Studies (unfinished)** *University of Helsinki / Faculty of Arts*
+[//]: # (`08.2010-05.2011`)
+[//]: # (**Master's Programme in European Studies (unfinished)** *University of Helsinki / Faculty of Arts*)
 
 `01.2010-04.2010`
 **Yleiseen kielitutkintoon valmentava koulutus**  *Edupoli*
@@ -36,31 +49,45 @@ firstname.lastname@aalto.fi
 **Bachelor's Degree in History**  *University of Salamanca (Spain)*
 
 
-## Employment
+## Technical Skills
 
-`07.2021-present`
-**Doctoral Researcher** _Aalto University_, _Semantic Computing Research Group_
+Python (experience with Pandas, NumPy, PyTorch, Matplotlib)
 
-`11.2019-06.2021`
-**Research assistant** _University of Helsinki_, _HELDIG/Semantic Computing Research Group_
+Large Language Models
+
+Git, BASH
+
+Markdown and LaTeX
+
+SQL
+
+Linked Data, SPARQL
+
+## Language Skills
+
+Portuguese: native
+
+Fluent in English, Finnish, Spanish
+
+Good comprehension (but rusty otherwise) in French
 
 
-## Publications
+## Academic publications (excerpt)
 
 `Forthcoming`
 
-Ahola, Annastiina, Lilli Peura, **Rafael Leal**, Heikki Rantala, and Eero Hyvönen. 2026 (forthcoming). ‘Using Generative AI and LLMs to Enrich Art Collection Metadata for Searching, Browsing, and Studying Art History in Digital Humanities’. In Humanizing Technology, Volume III - Artificial Intelligence and the Humanities, eds Silvia Lima, Gonçalves Araújo, Micaela Aguiar, and Dalila Durães. Peter Lang Verlag.
+[//]: # (Ahola, Annastiina, Lilli Peura, **Rafael Leal**, Heikki Rantala, and Eero Hyvönen. 2026 (forthcoming). ‘Using Generative AI and LLMs to Enrich Art Collection Metadata for Searching, Browsing, and Studying Art History in Digital Humanities’. In Humanizing Technology, Volume III - Artificial Intelligence and the Humanities, eds Silvia Lima, Gonçalves Araújo, Micaela Aguiar, and Dalila Durães. Peter Lang Verlag.)
 
 **Leal, Rafael**, Annastiina Ahola, and Eero Hyvönen. 2025 (forthcoming). ‘Enriching Cultural Heritage Knowledge Graph Metadata from Finnish Texts with Large Language Models’. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.
 
-Hyvönen, Eero, Petri Leskinen, Henna Poikkimäki, Heikki Rantala, **Rafael Leal**, Jouni Tuominen, Senka Drobac, et al. 2025 (forthcoming). ‘Searching, Exploring, and Analyzing Historical Letters and the Underlying Networks: LetterSampo Finland – Finnish 19th-Century Letters on the Semantic Web’. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.
+[//]: # (Hyvönen, Eero, Petri Leskinen, Henna Poikkimäki, Heikki Rantala, **Rafael Leal**, Jouni Tuominen, Senka Drobac, et al. 2025 (forthcoming). ‘Searching, Exploring, and Analyzing Historical Letters and the Underlying Networks: LetterSampo Finland – Finnish 19th-Century Letters on the Semantic Web’. In Digital Humanities in Nordic and Baltic Countries 2025 (DHNB 2025), Post-Proceedings, University of Oslo Library, Norway.)
 
 
 `2024`
 
 Hyvönen, Eero, Hien Cao, **Rafael Leal**, Heikki Rantala, and Aki Hietanen. 2024. ‘Searching and Analyzing Cross-Border Multilingual Legislation on the Semantic Web’. In The Semantic Web: ESWC 2024 Satellite Events, Hersonissos, Crete, Greece, May 26 - 30, 2024, Proceedings, Springer.
 
-Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. 2024. ‘Publishing and Using Parliamentary Linked Data on the Semantic Web: ParliamentSampo System for Parliament of Finland’. In Semantic Web,.
+[//]: # (Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**, Matti La Mela, Jouni Tuominen, Henna Poikkimäki, and Heikki Rantala. 2024. ‘Publishing and Using Parliamentary Linked Data on the Semantic Web: ParliamentSampo System for Parliament of Finland’. In Semantic Web,.)
 
 
 `2023`
@@ -72,9 +99,9 @@ Hyvönen, Eero, Laura Sinikallio, Petri Leskinen, Senka Drobac, **Rafael Leal**,
 
 **Leal, Rafael**, Heikki Rantala, Mikko Koho, Esko Ikkala, Markus Merenmies, and Eero Hyvönen. 2022. ‘WarMemoirSampo: A Semantic Portal for War Veteran Interview Videos’. In DHNB 2022 the 6th Digital Humanities in Nordic and Baltic Countries Conference, CEUR Workshop Proceedings, long papers, Vol. 3232. <http://ceur-ws.org/Vol-3232/paper30.pdf>.
 
-Hyvönen, Eero, Esko Ikkala, Mikko Koho, **Rafael Leal**, Heikki Rantala, and Minna Tamper. 2022. ‘How to Search and Contextualize Scenes Inside Videos for Enriched Watching Experience: Case Stories of the Second World War Veterans’. In The Semantic Web: ESWC 2022 Satellite Events, Lecture Notes in Computer Science, eds Paul Groth, Anisa Rula, Jodi Schneider, Ilaria Tiddi, Elena Simperl, Panos Alexopoulos, Rinke Hoekstra, et al. Cham: Springer International Publishing, 163–67. <https://doi.org/10.1007/978-3-031-11609-4_31>.
+[//]: # (Hyvönen, Eero, Esko Ikkala, Mikko Koho, **Rafael Leal**, Heikki Rantala, and Minna Tamper. 2022. ‘How to Search and Contextualize Scenes Inside Videos for Enriched Watching Experience: Case Stories of the Second World War Veterans’. In The Semantic Web: ESWC 2022 Satellite Events, Lecture Notes in Computer Science, eds Paul Groth, Anisa Rula, Jodi Schneider, Ilaria Tiddi, Elena Simperl, Panos Alexopoulos, Rinke Hoekstra, et al. Cham: Springer International Publishing, 163–67. <https://doi.org/10.1007/978-3-031-11609-4_31>.)
 
-Hyvönen, Eero, Minna Tamper, Esko Ikkala, Mikko Koho, **Rafael Leal**, Joonas Kesäniemi, Arttu Oksanen, Jouni Tuominen, and Aki Hietanen. 2022. ‘LawSampo Portal and Data Service for Publishing and Using Legislation and Case Law as Linked Open Data on the Semantic Web’. In AI4LEGAL-KGSUM 2022: Artificial Intelligence Technologies for Legal Documents and Knowledge Graph Summarization 2022, CEUR Workshop Proceedings, 41–50. <http://ceur-ws.org/Vol-3257/paper5.pdf>.
+[//]: # (Hyvönen, Eero, Minna Tamper, Esko Ikkala, Mikko Koho, **Rafael Leal**, Joonas Kesäniemi, Arttu Oksanen, Jouni Tuominen, and Aki Hietanen. 2022. ‘LawSampo Portal and Data Service for Publishing and Using Legislation and Case Law as Linked Open Data on the Semantic Web’. In AI4LEGAL-KGSUM 2022: Artificial Intelligence Technologies for Legal Documents and Knowledge Graph Summarization 2022, CEUR Workshop Proceedings, 41–50. <http://ceur-ws.org/Vol-3257/paper5.pdf>.)
 
 Koho, Mikko, **Rafael Leal**, Esko Ikkala, Minna Tamper, Heikki Rantala, and Eero Hyvönen. 2022. ‘Building Lightweight Ontologies for Faceted Search with Named Entity Recognition: Case WarMemoirSampo’. In Proceedings of the 1st International Workshop on Knowledge Graph Generation from Text and the 1st International Workshop on Modular Knowledge Co-Located with 19th Extended Semantic Conference (ESWC 2022), eds Sanju Tiwari, Nandana Mihindukulasooriya, Francesco Osborne, Dimitris Kontokostas, Jennifer D’Souza, and Mayank Kejriwal. CEUR Workshop Proceedings, 19–35. <http://ceur-ws.org/Vol-3184/TEXT2KG_Paper_2.pdf>.
 
@@ -88,41 +115,18 @@ Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Joun
 
 
 
-## Academic activities
+## Academic activities and Awards
 `Spring 2023 - Summer 2023`
 Computer Science Bachelor's Thesis Seminar coordinator 
-
-## Awards
 
 `9.12.2022`
 **School of Science, Aalto University** _Scientific Communication Award_ (To Eero Hyvönen and Semantic Computing Research Group)
 
 
-## Language Skills
 
-Portuguese: native
+## Interests
 
-Fluent in English, Finnish, Spanish
-
-Good comprehension (but rusty otherwise) in French
-
-
-## Technical Skills
-
-Python (experience with Pandas, NumPy, PyTorch, Matplotlib)
-
-Git, BASH
-
-Markdown and LaTeX
-
-SQL
-
-Linked Data, SPARQL
-
-
-## Academic Interests
-
-Natural Language Processing, Machine learning, Data analysis & visualisation, Historical computational linguistics, Open source
+Natural Language Processing, Data analysis & visualisation, Open source
 
 
 <br/><br/>Last updated: September 2025<br/><br/>
