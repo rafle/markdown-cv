@@ -72,28 +72,28 @@ Linked Data, SPARQL
 ## Projects
 
 
-`Sep 2022 - Present`
-**FiNEL** *Aalto University*
+`Sep 2022-Present`
+**FiNEL** *Aalto University*\
   Python library for Finnish Named Entity Linking. Under development
         
-`Mar 2022 - Dec 2024`
-**ParliamentSampo** *Aalto University*
-  Liked Data portal for speeches by Finnish MPs <https://parlamenttisampo.fi>
+`Mar 2022-Dec 2024`
+**ParliamentSampo** *Aalto University*\
+  Liked Data portal for speeches by Finnish MPs <https://parlamenttisampo.fi>\
   Backend: keyword extraction, lemmatization, text classification
 
-`May 2023 - Oct 2023`
-**FinEstLawSampo** *Aalto University*
-  Proof-of-concept Linked Data portal for cross-border multilingual Finnish and Estonian legislation. <https://finestlaw.demo.seco.cs.aalto.fi>
+`May 2023-Oct 2023`
+**FinEstLawSampo** *Aalto University*\
+  Proof-of-concept Linked Data portal for cross-border multilingual Finnish and Estonian legislation. <https://finestlaw.demo.seco.cs.aalto.fi>\
   Backend: text handling and enrichment.
 
-`Aug 2021 - Dec 2021`
-**WarMemoirSampo** *Aalto University*
-  Linked Data portal for Finnish War veteran video interviews <https://sotamuistot.arkisto.fi/>
+`Aug 2021-Dec 2021`
+**WarMemoirSampo** *Aalto University*\
+  Linked Data portal for Finnish War veteran video interviews <https://sotamuistot.arkisto.fi/>\
   Backend: data conversion and enrichment (Named Entity Recognition and Disambiguation)
 
-`Nov 2019 - Mar 2023`
-**LawSampo** *Aalto University*
-  Relevance Feedback search in Linked Data portal for Finnish legislation. <https://lakisampo.fi/fi/situations/iterative-search/statutes>
+`Nov 2019-Mar 2023`
+**LawSampo** *Aalto University*\
+  Relevance Feedback search in Linked Data portal for Finnish legislation. <https://lakisampo.fi/fi/situations/iterative-search/statutes>\
   Backend: full data processing and handling
 
 
@@ -149,7 +149,7 @@ Tamper, Minna, **Rafael Leal**, Laura Sinikallio, Petri Leskinen, Jouni Tuominen
 
 **Leal, Rafael**, Joonas Kesäniemi, Mikko Koho, and Eero Hyvönen. 2021. _Relevance Feedback Search Based on Automatic Annotation and Classification of Texts_. In 3rd Conference on Language, Data and Knowledge (LDK 2021), Open access series in informatics (OASIcs), eds Dagmar Gromann, Gilles Sérasset, Thierry Declerck, John P. McCrae, Jorge Gracia, Julia Bosque-Gil, Fernando Bobillo, and Barbara Heinisch. Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 18:1-18:15. <https://doi.org/10.4230/OASIcs.LDK.2021.18>.
 
-Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Jouni Tuominen, Matti La Mela, and Eero Hyvönen. 2021. _Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup_. In 3rd Conference on Language, Data and Knowledge, LDK 2021, Open access series in informatics (OASIcs), Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik GmbH, 8:1-8:17. <https://doi.org/10.4230/OASIcs.LDK.2021.8>.
+[//]: Sinikallio, Laura, Senka Drobac, Minna Tamper, **Rafael Leal**, Mikko Koho, Jouni Tuominen, Matti La Mela, and Eero Hyvönen. 2021. _Plenary Debates of the Parliament of Finland as Linked Open Data and in Parla-CLARIN Markup_. In 3rd Conference on Language, Data and Knowledge, LDK 2021, Open access series in informatics (OASIcs), Dagstuhl, Germany: Schloss Dagstuhl – Leibniz-Zentrum für Informatik GmbH, 8:1-8:17. <https://doi.org/10.4230/OASIcs.LDK.2021.8>.
 
 
 
