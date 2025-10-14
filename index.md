@@ -18,39 +18,43 @@ firstname.lastname@aalto.fi
 
 ## Employment
 
-`07.2021-present`
+`Jul 2021-present`
 **Doctoral Researcher** _Aalto University_, _Semantic Computing Research Group_
 
-`11.2019-06.2021`
+`Nov 2019-Jun 2021`
 **Research assistant** _University of Helsinki_, _HELDIG/Semantic Computing Research Group_
 
-`-05.2021`
+`Jun 2014-Oct 2019`
 **Hardware Technician** _Digishop Finland 0y_
+
+`Jun 2005-May 2014`
+**Front Desk Agent, Sanitation Worker, Networking Technician** _Multiple Companies_
 
 
 
 ## Education
 
-`07.2021-present`
+`Jul 2021-present`
 **PhD Candidate in Computer Science** *Aalto University / Department of Computer Science*
 
-`09.2019-12.2020`
+`Sep 2019-Dec 2020`
 **Master's Degree in Language Technology** *University of Helsinki / Faculty of Arts*
 
-`08.2014-08.2019`
+`Aug 2014-Aug 2019`
 **Bachelor's Degree in Language Technology**  *University of Helsinki / Faculty of Arts*
 
 [//]: # (`08.2010-05.2011`)
 [//]: # (**Master's Programme in European Studies (unfinished)** *University of Helsinki / Faculty of Arts*)
 
-`01.2010-04.2010`
-**Yleiseen kielitutkintoon valmentava koulutus**  *Edupoli*
+[//]: `01.2010-04.2010`
+[//]: **Yleiseen kielitutkintoon valmentava koulutus**  *Edupoli*
 
-`08.2001-05.2005`
+`Aug 2001-May 2005`
 **Bachelor's Degree in History**  *University of Salamanca (Spain)*
 
-
 ## Technical Skills
+
+Data extraction and cleaning
 
 Python (experience with Pandas, NumPy, PyTorch, Matplotlib)
 
@@ -62,7 +66,35 @@ SQL and Knowledge Graphs
 
 Linked Data, SPARQL
 
-Markdown and LaTeX
+[//]: Markdown and LaTeX
+
+
+## Projects
+
+
+`Sep 2022 - Present`
+**FiNEL** *Aalto University*
+  Python library for Finnish Named Entity Linking. Under development
+        
+`Mar 2022 - Dec 2024`
+**ParliamentSampo** *Aalto University*
+  Liked Data portal for speeches by Finnish MPs <https://parlamenttisampo.fi>
+  Backend: keyword extraction, lemmatization, text classification
+
+`May 2023 - Oct 2023`
+**FinEstLawSampo** *Aalto University*
+  Proof-of-concept Linked Data portal for cross-border multilingual Finnish and Estonian legislation. <https://finestlaw.demo.seco.cs.aalto.fi>
+  Backend: text handling and enrichment.
+
+`Aug 2021 - Dec 2021`
+**WarMemoirSampo** *Aalto University*
+  Linked Data portal for Finnish War veteran video interviews <https://sotamuistot.arkisto.fi/>
+  Backend: data conversion and enrichment (Named Entity Recognition and Disambiguation)
+
+`Nov 2019 - Mar 2023`
+**LawSampo** *Aalto University*
+  Relevance Feedback search in Linked Data portal for Finnish legislation. <https://lakisampo.fi/fi/situations/iterative-search/statutes>
+  Backend: full data processing and handling
 
 
 ## Language Skills
@@ -135,7 +167,7 @@ Computer Science Bachelor's Thesis Seminar coordinator
 Natural Language Processing, Data analysis & visualisation, Open source
 
 
-<br/><br/>Last updated: September 2025<br/><br/>
+<br/><br/>Last updated: October 2025<br/><br/>
 
 <!-- ### Footer
 
