@@ -107,7 +107,7 @@ Finnish: fluent
 
 Spanish: fluent
 
-Frence: good comprehension, rusty otherwise
+French: good comprehension, rusty otherwise
 
 
 ## Academic publications (excerpt)
