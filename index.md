@@ -18,14 +18,14 @@ firstname.lastname@aalto.fi
 
 ## Employment
 
-`Jul 2021-present`
+`Jul 2021-Present`
 **Doctoral Researcher** _Aalto University_, _Semantic Computing Research Group_
 
 `Nov 2019-Jun 2021`
 **Research assistant** _University of Helsinki_, _HELDIG/Semantic Computing Research Group_
 
 `Jun 2014-Oct 2019`
-**Hardware Technician** _Digishop Finland 0y_
+**Hardware Technician** _nTec Finland 0y_
 
 `Jun 2005-May 2014`
 **Front Desk Agent, Sanitation Worker, Networking Technician** _Multiple Companies_
@@ -34,7 +34,7 @@ firstname.lastname@aalto.fi
 
 ## Education
 
-`Jul 2021-present`
+`Jul 2021-Present`
 **PhD Candidate in Computer Science** *Aalto University / Department of Computer Science*
 
 `Sep 2019-Dec 2020`
